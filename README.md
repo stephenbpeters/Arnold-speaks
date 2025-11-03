@@ -11,3 +11,7 @@ He is angry and bitter about his fall from fame and fortune.  If you are brave e
 However, with this source code you can modify (or replace) Arnold in any way you see fit.  This extension pulls the text and images off my web site, but you can change that if you want.
 
 I hope you enjoy this, and enjoy modifying it for your own purposes.
+
+The "icon128.png" file should be in a folder called "icons".  The text that appears is in this file: arnold-speaks.txt.
+
+Installation instructions are in the PDF.
