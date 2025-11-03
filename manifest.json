@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Arnold Random Popup",
+  "version": "1.2",
+  "description": "Shows a random Arnold image and quote throughout the day.",
+  "permissions": ["alarms", "storage", "system.display"],
+  "host_permissions": ["https://mars.tikimojo.com/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_icon": "icons/icon128.png",
+    "default_title": "Test Popup Now"
+  },
+  "icons": {
+    "128": "icons/icon128.png"
+  }
+}
